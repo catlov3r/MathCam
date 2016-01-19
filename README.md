@@ -2,7 +2,7 @@
 This is an arduino project that uses an LCD and Keypad to trigger a camera to take a photobooth style picture.
 
 
-This uses 
+This uses
 -an Arduino Uno (https://www.sparkfun.com/products/11021, but any Arduino will work)
 -a 12 Button Keypad (https://www.sparkfun.com/products/8653)
 -a Serial enabled LCD (https://www.sparkfun.com/products/11021)
