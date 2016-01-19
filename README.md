@@ -3,11 +3,17 @@ This is an arduino project that uses an LCD and Keypad to trigger a camera to ta
 
 
 This uses
+
 -an Arduino Uno (https://www.sparkfun.com/products/11021, but any Arduino will work)
+
 -a 12 Button Keypad (https://www.sparkfun.com/products/8653)
+
 -a Serial enabled LCD (https://www.sparkfun.com/products/11021)
+
 -2 RJ45 Breakout boards (https://www.sparkfun.com/products/716)
+
 -2 RJ45 8-pin connectors (https://www.sparkfun.com/products/643)
+
 
 The RJ45’s are so that the keypad and LCD can be located further away from the micro controller and camera easier. If you want to use standard wires to run everything that is fine too. 
 
